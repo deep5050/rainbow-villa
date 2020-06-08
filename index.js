@@ -13,7 +13,7 @@ const toLinear = (grad) => {
     grad_array.forEach((elem) => {
         color.push(` ${elem.color} ${elem.pos}%`);
     });
-    return `background-image: linear-gradient(${grad.deg},${color.toLocaleString()});`
+    return `background-image: linear-gradient(${grad.deg}deg,${color.toLocaleString()});`
 }
 
 
