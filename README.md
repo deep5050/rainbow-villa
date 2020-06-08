@@ -33,7 +33,7 @@ Run `npm i rainbow-villa` And Add `const rv = require('rainbow-villa)` To Your S
 ## Usage
 ```js
  console.log(rv.linear_random());
- // => background-image: linear-gradient(120, #84fab0 0%, #8fd3f4 100%);
+ // => background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
  ```
 
 ## License
