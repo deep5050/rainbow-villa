@@ -1,0 +1,34 @@
+{
+  "name": "rainbow-villa",
+  "version": "1.0.0",
+  "description": "Set Of 174 Handpicked Linear Gradients For Designers Like You :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep5050/rainbow-villa.git"
+  },
+  "keywords": [
+    "color",
+    "linear-gradients",
+    "gradients",
+    "css",
+    "colour",
+    "web-gradients",
+    "random-gradients",
+    "gradient-generator",
+    "random-color",
+    "color-palette",
+    "color-picker",
+    "gradient-picker"
+  ],
+  "files": ["index.js","data/gradients.json"],
+  "author": "Dipankar Pal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deep5050/rainbow-villa/issues"
+  },
+  "homepage": "https://github.com/deep5050/rainbow-villa#readme"
+}
