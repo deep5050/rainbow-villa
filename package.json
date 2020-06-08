@@ -1,6 +1,6 @@
 {
   "name": "rainbow-villa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Set Of 174 Handpicked Linear Gradients For Designers Like You :)",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,9 @@
   ],
   "files": ["index.js","data/gradients.json"],
   "author": "Dipankar Pal",
-  "license": "MIT",
+  "license": "MIT","publishConfig": {
+    "registry": "https://npm.pkg.github.com/@deep5050"
+  },
   "bugs": {
     "url": "https://github.com/deep5050/rainbow-villa/issues"
   },
