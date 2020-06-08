@@ -26,9 +26,7 @@
   ],
   "files": ["index.js","data/gradients.json"],
   "author": "Dipankar Pal",
-  "license": "MIT","publishConfig": {
-    "registry": "https://npm.pkg.github.com/@deep5050"
-  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/deep5050/rainbow-villa/issues"
   },
